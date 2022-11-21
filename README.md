@@ -13,8 +13,8 @@ But why NLP? Here our goal is to create a machine learning model to screen quest
 **Team Name**-Gryffindor
 
 **Team Members**-
-1. Aakanksha Rani
-2. Akanksha Shukla
+1. Aakanksha Rani -https://github.com/Srivastava-Rani-Aakanksha
+2. Akanksha Shukla -https://github.com/imshukla12
  
 
  
